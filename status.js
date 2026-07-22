@@ -3,7 +3,7 @@ window.ServiceStatus = {
   message: "",
   data: {
     maintenance: {
-      enabled: false,
+      enabled: true,
       title: "System Maintenance12",
       message: "Visa services are upgrading. Please try again later.",
       start_at: "2026-02-04T02:00:00Z",
